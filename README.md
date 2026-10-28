@@ -8,7 +8,7 @@ I turn real problems into useful products, with AI.
 
 My product work starts with a question: **what would make this easier for the person using it?** I build to find out, then improve the details that only show up when an idea becomes working software.
 
-[Douyin / 抖音](https://v.douyin.com/k87b3ZplP_s/) · Product decisions and the building process.
+[Douyin / 抖音](https://v.douyin.com/k87b3ZplP_s/) · [Xiaohongshu / 小红书](https://xhslink.cn/o/74WgFxM3Tn3) · Product decisions and the building process.
 
 ## Try something I've built
 
